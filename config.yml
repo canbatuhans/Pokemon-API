@@ -1,0 +1,6 @@
+database:
+  driver: sqlite
+  database: /path/to/your/shop.db
+
+api:
+  port: 5000
