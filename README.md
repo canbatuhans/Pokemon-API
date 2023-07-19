@@ -39,6 +39,6 @@ Endpointlerin döndürdüğü JSON çıktıları, istenen sütunlarla birlikte u
 # Adım 4: Dockerize Etme
 Tüm süreç tamamlandıktan sonra proje Docker konteynerine taşınır.
 
-<img src="img/Docker.png">
+<img src="img/Docker.png> 
 
  
