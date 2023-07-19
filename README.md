@@ -5,7 +5,7 @@ Proje, yazılım tasarım prensiplerine ve SOLID prensiplerine uygun olarak tasa
 
 # Adım 1: Veri Çekme ve Veritabanına Kaydetme
 1.1 Veri Çekme
-"scrapeme.live/shop" sitesinden Python kullanarak tüm ürün verilerini çeken bir program yazıldı.
+[scrapeme.live/shop](scrapeme.live/shop) sitesinden Python kullanarak tüm ürün verilerini çeken bir program yazıldı.
 <img src="img/VSCTerminal.png">
 
 1.2 Veritabanına Kaydetme
