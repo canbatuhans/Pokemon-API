@@ -37,7 +37,7 @@ GET /pokemons/ex=<excluded_fields>: Verilen sütun isimlerini çıktıda göster
 Endpointlerin döndürdüğü JSON çıktıları, istenen sütunlarla birlikte uygun şekilde düzenlenmiş şekilde gösterilecektir.
 
 # Adım 4: Dockerize Etme
-Tüm süreç tamamlandıktan sonra proje Docker konteynerine taşınacaktır.
+Tüm süreç tamamlandıktan sonra proje Docker konteynerine taşınır.
 
 <img src="img/Docker.png">
 
